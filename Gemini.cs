@@ -8,7 +8,7 @@ using System.Text;
 public class ExampleClass : MonoBehaviour
 {
     // 在Unity Inspector視窗中指定的變數
-    public string apiKey; // apiKey = "AIzaSyBfsKLGH8sxROpaPoB0oD6AeaO6VVxPxlY"
+    public string apiKey; // apiKey = "YOUR_API_KEY"
     public string GeminiEndpoint; // GeminiEndpoint = "https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent"
     public string message;
     public InputField userInputField; // 接收使用者輸入的 InputField
